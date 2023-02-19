@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Franklin Template 🫡
+AEM Franklin best practices for creating a template that can be published with content from Google Docs
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--franklin-template--ricardoiso.hlx.page/
+- Live: https://main--franklin-template--ricardoiso.hlx.live/
 
 ## Installation
 
